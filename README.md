@@ -23,11 +23,11 @@ The **Company Brochure Generator Lite** is a Python-based utility for creating p
    conda activate brochure_builder
    ```
 4. Configure the script to use the Ollama model `llama3.2` (ensure access to the model).
-5. Optionally, adjust constants like `MODEL` and `HEADERS` in the script if necessary.
-6. Launch Jupyter Lab:
+5. Launch Jupyter Lab:
    ```bash
    jupyter lab
-7. Open the `brochure_builder_lite.ipynb` notebook in Jupyter Lab and run the cells step-by-step.
+6. Open the `brochure_builder_lite.ipynb` notebook in Jupyter Lab and run the cells step-by-step.
+7. Optionally, adjust constants like `MODEL` and `HEADERS` in the script if necessary.
 
 ## Usage
 1. Open Jupyter Lab and navigate to the `brochure_builder_lite.ipynb` notebook.
